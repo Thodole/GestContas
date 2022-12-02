@@ -3,6 +3,7 @@ package contas.a_pagar;
 /**
  * 
  * @author Saul-Medeiros
+ * @author Thodole
  */
 public class TesteConta {
 
