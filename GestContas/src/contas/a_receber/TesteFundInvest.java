@@ -3,6 +3,7 @@ package contas.a_receber;
 /**
  * 
  * @author Saul-Medeiros
+ * @author thodole
  */
 public class TesteFundInvest {
 
